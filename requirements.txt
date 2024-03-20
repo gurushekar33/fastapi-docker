@@ -1,0 +1,10 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+pymongo
+redis
+python-dotenv
+pymysql
+
+# Access_ley = AKIA6GBMBZ6B7LLPRREU
+# Secret_key = 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
